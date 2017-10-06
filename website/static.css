@@ -1,0 +1,51 @@
+body{
+    width: 800px;
+    text-align: center;
+    color: white;
+}
+
+header{
+    background-color: blue;
+    block-size: 30px;
+}
+
+nav{
+    background-color: green;
+    block-size: 25px;
+}
+
+nav a{
+    color:white;
+    
+    margin: 0px 10px 0px 15px;
+}
+
+
+nav ul li{
+    display: inline;
+}
+
+article{
+    width: 66.66%;
+    background-color: pink;
+    height: 150px;
+}
+
+section{
+    width: 100%;
+    background-color: brown;
+    margin: 10px 0;
+    height: 50px;
+}
+
+aside{
+    width: 33.33%;
+    background-color: cyan;
+    height: 200px;
+}
+
+footer{
+    background-color: green;
+    height: 30px;
+}
+
